@@ -18,7 +18,7 @@ Projeto que realiza a conversão de moedas extrangeiras para a moeda Real.
 <br>
 
 <p align="center">
-  <img alt="layout do projeto" src="./layout.svg" width="100%">
+  <img alt="layout do projeto" src="img/layout.svg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
